@@ -9,9 +9,9 @@ Run the package_test.py to check if all requirements are there (probably!).
 
 # Plots
 ![Points vs Rank]
-(https://postimg.org/image/5zdqf0qg5/)
+(https://github.com/vyraun/Mens-Tennis-Rank-vs-Points/blob/master/menstennis2.png)
 
 ![Density Distribution of Points]
-https://postimg.org/image/b02k5093v/
+(https://github.com/vyraun/Mens-Tennis-Rank-vs-Points/blob/master/menstennis.png)
 
 
