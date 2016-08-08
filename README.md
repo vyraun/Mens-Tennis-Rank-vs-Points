@@ -1,7 +1,7 @@
 # Mens-Tennis-Rank-vs-Points
 Ranks vs Points plot, points density distribution, Age Distribution of Top 100 Tennis Players.
 
-Rankings are fetched from the official url [ATP](http://www.atpworldtour.com/en/rankings/singles).
+Rankings are fetched from the official url at [ATP](http://www.atpworldtour.com/en/rankings/singles).
 
 Uses Beautiful Soup.
 
